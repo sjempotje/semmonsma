@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @semmonsma
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing :(
 - 📫 How to reach me semmonsma2@gmail.com
 
 <!---
